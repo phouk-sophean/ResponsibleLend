@@ -133,7 +133,7 @@ function closeMobileMenu() {
     <footer class="bg-slate-800 text-slate-300 mt-16">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div class="text-center">
-          <p class="text-sm">© 2024 ResponsibleLend. Promoting financial wellness through responsible lending practices.</p>
+          <p class="text-sm">© 2025 ResponsibleLend. Promoting financial wellness through responsible lending practices.</p>
         </div>
       </div>
     </footer>
